@@ -8,3 +8,11 @@
 word-spacing: 18px;}
 
 .col-3 {text-align: right;}
+
+main {margin: 30px 40px}
+
+.catalogue {display:inline}
+
+.btnspace {margin-left:570px;}
+
+.even {background-color: rgb(240, 240, 240);}
