@@ -13,6 +13,18 @@ main {margin: 30px 40px}
 
 .catalogue {display:inline}
 
-.btnspace {margin-left:570px;}
+.btnspace {margin-left:500px;}
 
 .even {background-color: rgb(240, 240, 240);}
+ 
+.maintext {margin-bottom: 20px;
+    display: flex;
+justify-content: space-between;}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    white-space: nowrap;
+  }
+
+  .titletable {width: 50%}
